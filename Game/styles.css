@@ -416,3 +416,8 @@
     font-size: 25px;
     color: rgba(255,255,255,1);
 }
+#embed{
+    float: right;
+    margin-top: 20%;
+    margin-right: 18%;
+}
