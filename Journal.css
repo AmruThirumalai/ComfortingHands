@@ -349,3 +349,10 @@
     font-size: 85px;
     color: rgba(255,255,255,1);
 }
+.embed{
+    float: right;
+    margin-top: 12%;
+    margin-right: 8%; 
+    margin-left: 200px;
+  }
+  
